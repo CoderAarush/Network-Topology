@@ -1,5 +1,5 @@
-                                                                  Network Topology Project 
-                                                                    Aarush Agrawal
+                                                     Network Topology Project 
+                                                        Aarush Agrawal
                                                                     
 Preview of interface:
 
