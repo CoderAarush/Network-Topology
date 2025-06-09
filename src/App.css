@@ -1,0 +1,32 @@
+.tooltip {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+  padding: 6px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  pointer-events: none;
+  display: none;
+  z-index: 999;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* optional, depending on your visual preference*/
+  gap: 20px; /* spacing between components */
+  padding: 20px;
+}
+
+.graph-container {
+  width: 700px;
+  height: 900px;
+  font-size: 3rem;
+  
+}
+
+.SidebarWrapper {
+  width: 300px; /* adjust as needed */
+  padding: 20px;
+}
+

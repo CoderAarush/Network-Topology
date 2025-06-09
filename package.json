@@ -1,0 +1,31 @@
+{
+  "name": "none",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@yfiles/yfiles": "file:../../../Downloads/yFiles-for-HTML-Complete-3.0.0.1-Evaluation/yFiles-for-HTML-Complete-3.0.0.1-Evaluation/lib/yfiles-30.0.1+eval-dev/package",
+    "cytoscape": "^3.32.0",
+    "react": "^19.1.0",
+    "react-cytoscapejs": "^2.0.0",
+    "react-dom": "^19.1.0",
+    "zustand": "^5.0.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^4.4.1",
+    "eslint": "^9.25.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0",
+    "vite": "^6.3.5"
+  }
+}
