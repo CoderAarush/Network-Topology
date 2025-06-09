@@ -19,3 +19,13 @@ The left side of the interface will feature the network structure and the right 
 
 4. Conclusion
 This interface can be a powerful tool that can be used to visualize large enterprise networks and early problem detection. It uses innovative visualization and modification techniques based on newer platform variations. Note: The yFiles license for the yfile is a developers free trial license and is set to expire within fifty days. Users are recommended to purchase the software independently and replace the src/License.json file/
+
+
+Project Instructions:
+1. Clone the project
+2. Subscribe to yfiles and replace src/License.json with the new license and serial number
+3. Run the following commands in the directory terminal: 1. npm install
+                                                         2. Download yfiles and run npm i //Followed by the path of the cloned github repository
+                                                         3. npm run dev
+   
+If connections and devices have to be modified, those changes can be implemented in the src/Network_Data.jsx file
